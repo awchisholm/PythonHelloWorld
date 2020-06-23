@@ -12,14 +12,14 @@ This is a simple Python program to check that you have Python 3 installed.
   
   - Mac --> ```https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.pkg```
   
-2. Run Anaconda and within Anaconda Navigator find the VS Code item. Install and run this.
+2. Run Anaconda and within Anaconda Navigator find the Spyder item. Install and run this.
 
-3. You will now be in Visual Studio Code (VS Code) where you can edit and run code. 
+3. You will now be in the Spyder Integrated Development Environment (IDE) where you can edit and run code. 
 
 4. Go to ```https://github.com/awchisholm/PythonHelloWorld``` and look for the file called ```HelloWorld.py```
 
-5. In VS Code, create a new file called ```HelloWorld.py``` and copy the contents of the file on GitHub to this new file. Save the file.
+5. In Spyder, create a new file called ```HelloWorld.py``` and copy the contents of the file on GitHub to this new file. Save the file.
 
-6. In VS Code, press ```control F5``` to run you Python program. 
+6. In Spyder, press ```F5``` to run you Python program. 
 
-7. If it works, you should see ```Hello World!``` being printed somewhere in the console of VS Code.
+7. If it works, you should see ```Hello World!``` being printed somewhere in the console of Spyder.
