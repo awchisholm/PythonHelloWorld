@@ -23,3 +23,5 @@ This is a simple Python program to check that you have Python 3 installed.
 6. In Spyder, press ```F5``` to run you Python program. 
 
 7. If it works, you should see ```Hello World!``` being printed somewhere in the console of Spyder.
+
+Congratulations! You have successfully installed Python using Anaconda and run your first Python program.
