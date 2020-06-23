@@ -28,4 +28,4 @@ print('Hello World!')
 
 7. If it works, you should see ```Hello World!``` being printed somewhere in the console of Spyder.
 
-Congratulations! You have successfully installed Python using Anaconda and run your first Python program.
+Congratulations! You have successfully installed Python using Anaconda, navigated to GitHub to find a file, and run your first Python program.
