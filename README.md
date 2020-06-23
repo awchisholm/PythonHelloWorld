@@ -16,4 +16,4 @@ This is a simple Python program to check that you have Python 3 installed.
 
 3. You will now be in Visual Studio Code where you can edit and run code. 
 
-4. Go to 
+4. Go to https://github.com/awchisholm/PythonHelloWorld and look for the file called ```HelloWorld.py```
