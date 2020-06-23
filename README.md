@@ -18,7 +18,11 @@ This is a simple Python program to check that you have Python 3 installed.
 
 4. Go to ```https://github.com/awchisholm/PythonHelloWorld``` and look for the file called ```HelloWorld.py```
 
-5. In Spyder, create a new file called ```HelloWorld.py``` and copy the contents of the file on GitHub to this new file. Save the file.
+5. In Spyder, create a new file called ```HelloWorld.py``` and copy the contents of the file on GitHub to this new file. Save the file. It should look like this
+```
+# The usual first program to run
+print('Hello World!')
+```
 
 6. In Spyder, press ```F5``` to run you Python program. 
 
